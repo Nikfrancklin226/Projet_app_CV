@@ -7,6 +7,7 @@ sur les CV dans la base de données MySQL avec Spring boot.</li>
 <li> Une partie Front-End qui va afficher la présentation du système avec avec un bouton qui redirige vers la
 page de visualisation des CV et une Une Page de Visualisation (ListView) des CV. </li>
 
+# I. Partie Back-End
 # AdminSpringBoot
 
 Creation de la base de données
@@ -73,7 +74,7 @@ Ci-dessous, comment s'effectue l'enregistrement :
 ![Cap_11](https://user-images.githubusercontent.com/91322696/227798526-988027f6-c68e-4ffa-b6c3-747bb2f6585e.PNG)
 
 
-
+# II. Partie Front-End
 
 
 
