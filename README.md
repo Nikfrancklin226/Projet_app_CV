@@ -75,6 +75,9 @@ Ci-dessous, comment s'effectue l'enregistrement :
 
 
 # II. Partie Front-End
+Cette partie sera basée sur la présentation des offres d'emplois à travers une interface de bienvenue à l'application puis 
+une interface d'accès pour voir les offres d'emplois postées et la notification d'offres suivant les catégories concernées. Par la suite nous aurons un bouton de redirection vers la page de visualisation des CV enrégistrés dans la base MySQL avec Spring boot.
+
 
 
 
