@@ -26,6 +26,7 @@ Création de table
 
 ![Cap_1](https://user-images.githubusercontent.com/91322696/227797587-4fda6b65-8136-4324-915d-0d1eb034518a.PNG)
 
+
 Affichage des différentes rubriques pour le CV dans la base de données MySQL
 
 ![Cap_2](https://user-images.githubusercontent.com/91322696/227797752-ebc5c5a2-743b-4a23-b0a0-eb09bf0847a8.PNG)
@@ -44,12 +45,16 @@ Structure de la table sur Postman
 ![Cap_5](https://user-images.githubusercontent.com/91322696/227798018-3c24e13b-035c-486b-bce8-00ebab7307b3.PNG)
 
 L'affichage des differents enregistrements se fait avec la requête all
+
 ![Cap_6](https://user-images.githubusercontent.com/91322696/227798056-da8b8001-35c6-4ce6-a9cd-e4ad2983619d.PNG)
 
 Pour la requête Login, nous utilisons l'id, ce qui nous donne ceci :
+
 ![Cap_7](https://user-images.githubusercontent.com/91322696/227798091-c9721c18-3851-4332-a07c-618932ce5fe4.PNG)
 
+
 La requête FindByEmailAndAdress permet d'authentifier le demandeur d'emploi pour avoir accès à l'interface des offres d'emplois
+
 ![Cap_8](https://user-images.githubusercontent.com/91322696/227798304-5ed15d7e-6e17-403b-9e8e-c9bced3bdda0.PNG)
 
 
