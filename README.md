@@ -95,6 +95,7 @@ Dans cette partie, nous allons présenter l'interface d'accès aux offres d'empl
 <li>La partie Login qui permet à l'utilisateur de s'enregistrer pour bénéficier de l'application</li>
 <li>La partie Register qui permet de vérifier si c'est l'utilisateur en question qui est réellement connecté à l'application</li>
 
+
 ![Android_6](https://user-images.githubusercontent.com/91322696/228023871-631a73ae-609e-4b8c-ba26-72aef5393f2a.PNG)
 
 ![Android_7](https://user-images.githubusercontent.com/91322696/228023926-a069a79c-782e-42f5-8db1-2ff1e99ff67b.PNG)
