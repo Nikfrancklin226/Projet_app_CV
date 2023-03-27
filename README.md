@@ -78,6 +78,47 @@ Ci-dessous, comment s'effectue l'enregistrement :
 Cette partie sera basée sur la présentation des offres d'emplois à travers une interface de bienvenue à l'application puis 
 une interface d'accès pour voir les offres d'emplois postées et la notification d'offres suivant les catégories concernées. Par la suite nous aurons un bouton de redirection vers la page de visualisation des CV enrégistrés dans la base MySQL avec Spring boot.
 
+Voici les ramifications présentes dans notre projet :
+
+![Android_1](https://user-images.githubusercontent.com/91322696/228021869-011f02c1-4f24-4b12-bbba-e60d66df4190.PNG)
+
+![Android_2](https://user-images.githubusercontent.com/91322696/228021953-d5b242bc-a131-4856-93d8-a49d0b96b21e.PNG)
+
+
+![Android_3](https://user-images.githubusercontent.com/91322696/228022471-4a79b4b5-0088-49d4-9d19-103120d080f3.PNG)
+
+
+<li>Présentation du système</li>
+
+Dans cette partie, nous allons présenter l'interface d'accès aux offres d'emplois. Pour se faire nous avons juger opportun d'authentifier l'utilisateur de l'application pour question de sécurité. Nous avons deux étapes pour l'authentification:
+
+<li>La partie Login qui permet à l'utilisateur de s'enregistrer pour bénéficier de l'application</li>
+<li>La partie Register qui permet de vérifier si c'est l'utilisateur en question qui est réellement connecté à l'application</li>
+
+![Android_6](https://user-images.githubusercontent.com/91322696/228023871-631a73ae-609e-4b8c-ba26-72aef5393f2a.PNG)
+
+![Android_7](https://user-images.githubusercontent.com/91322696/228023926-a069a79c-782e-42f5-8db1-2ff1e99ff67b.PNG)
+
+Une fois l'utilisateur connecté, il pourra avoir accès à l'inerface d'acceuil pour visualiser les CV enregistrés dans la base de données MySQL.
+
+![Android_5](https://user-images.githubusercontent.com/91322696/228024544-a290106e-7a1c-49e3-95cb-bf3090611a11.PNG)
+
+
+<li>Page de visualisation des CV enregistrés</li>
+
+Cette page permet de présenter les CV enregistrés dans MySQL.
+
+![Android_10](https://user-images.githubusercontent.com/91322696/228025425-1f5fcd6b-a474-4530-b4d9-cea2afea9046.PNG)
+
+En outre, nous avons juger nécessaire que l'utilisateur pourrait directement ajouter des CV dans la base de données en 
+utilisant le format de fichier GSON pour l'extraction des données.
+
+![Android_8](https://user-images.githubusercontent.com/91322696/228028364-a920369a-478d-4d2b-a505-5f730e67ca74.PNG)
+
+Comme ajout nous avons créer une activité pour visualiser les offres d'emploi disponibles en fonction de chaque catégorie de CV.
+
+![Android_4](https://user-images.githubusercontent.com/91322696/228029612-5c4654c1-0329-47f8-80e8-15ebd2d54037.PNG)
+
 
 
 
