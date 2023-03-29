@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="usersListItem_name" type="id" />
+    <item name="usersListItem_email" type="id" />
+    <item name="usersListItem_address" type="id" />
+    <item name="usersListItem_phone" type="id" />
+    <item name="usersListItem_Speciality" type="id" />
+    <item name="usersListItem_level_of_studies" type="id" />
+    <item name="usersListItem_professionnal_Experience" type="id" />
+    <item name="usersListItem_age" type="id" />
+    <item name="listCv" type="id" />
+</resources>
